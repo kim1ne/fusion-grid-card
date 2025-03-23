@@ -7,3 +7,5 @@
 Появляется таб "Посты" в карточке сделки
 
 при клике на таб запрос уходит в компонент на файл local/components/fusion/fusion.posts/lazyload.ajax.php
+
+![image](https://github.com/user-attachments/assets/a8a27abb-c734-41c3-84fc-b3a9d3bb6d6d)
